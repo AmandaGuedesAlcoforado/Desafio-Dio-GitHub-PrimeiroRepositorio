@@ -7,10 +7,10 @@ Consegui fazer a clonagem para a máquina.
 
 Usar Comandos do terminal do git "git bash",
 para colocar pastas e arquivos no github. 
-
 Comandos como:
 git status
-git add. => adiciona todos os arquivos.
+git add. 
+git commit -m e git push origin main. 
 
 Atualizções feitas dentro da pasta e passadas ao github através do terminal.
 
