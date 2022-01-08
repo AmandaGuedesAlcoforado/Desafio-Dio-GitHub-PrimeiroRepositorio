@@ -9,4 +9,4 @@ git add.
 git commit -m e git push origin main. 
 Atualizções feitas dentro da pasta e passadas ao github através do terminal.
 Através deste repositório vou colocar o
-progresso do curso e criar meu portifpolio.
+progresso do curso e criar meu portfólio.
