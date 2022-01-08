@@ -1,0 +1,22 @@
+Anotações da aula de introdução ao git/github
+
+
+Aprendi a criar meu primeiro repositório.
+
+Consegui fazer a clonagem para a máquina.
+
+Usar Comandos do terminal do git "git bash",
+para colocar pastas e arquivos no github. 
+
+Comandos como:
+git status
+git add. => adiciona todos os arquivos.
+
+Atualizções feitas dentro da pasta e passadas ao github através do terminal.
+
+
+Através deste repositório vou colocar o
+progresso do curso e criar meu portifpolio.
+
+
+
